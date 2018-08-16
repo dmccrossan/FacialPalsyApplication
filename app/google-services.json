@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "245142592559",
+    "firebase_url": "https://facialpalsyapplication.firebaseio.com",
+    "project_id": "facialpalsyapplication",
+    "storage_bucket": "facialpalsyapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245142592559:android:814ca15e3356d680",
+        "android_client_info": {
+          "package_name": "com.example.daniel.facialpalsyapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245142592559-apabon434f44bh4a2cneueeu09gshpvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daniel.facialpalsyapplication",
+            "certificate_hash": "2be0793b63a52ccebef8a8e23fd33fe3560ca80e"
+          }
+        },
+        {
+          "client_id": "245142592559-llsaat5p2i67jhb3raph94vvt5ocrpfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWO29y3jINc4Pa-TPbPyp9FLo-C4zs_e8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245142592559-llsaat5p2i67jhb3raph94vvt5ocrpfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
